@@ -1,0 +1,17 @@
+name: anomaly_dect
+dependencies:
+- python=3.7
+- pip
+- jupyter
+- matplotlib
+- pandas
+- numpy
+- keras
+- keras-applications
+- keras-preprocessing
+- Theano==1.0.2
+- cython
+- scikit-image
+- opencv
+- pip:
+  - sip
